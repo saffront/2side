@@ -10,6 +10,7 @@ group :production do
 end
 
 gem 'bootstrap-sass'
+gem 'font-awesome-sass', '4.2.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
